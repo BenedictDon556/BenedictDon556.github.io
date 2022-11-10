@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html style="background-color:gold;">
+  <head></head>
+  <body>
+    <div style="background-color:#E333FF;">
+    <img src="img/ResumePortrait.jpg" alt="Portrait of Me" width="130" height="145" align="right">
+    <h1 align="center">Donald Williams</h1>
+    <h3 align="center">3700 West Avenue Apartment R-2<br>
+                             +1(803)226 8569<br>
+                      Donald.williams70@my.benedict.edu<br>
+                      <a href="https://www.linkedin.com/in/donald-williams-267a94249/">LinkedIn</a>
+
+     </h3></div>
+<hr style="#E333FF;">
+<h2>Career Goal</h2>
+<p>In the future, I plan on going into the <i>Air Force</i> and becoming a <b>robotics engineer.</b></p>
+<hr style="#E333FF;">
+<h2>Experience</h2>
+<ul>
+  <li>Cybersecurity Program for Allen/Benedict</li>
+    <ol>
+      <li>A little of C++</li>
+      <li>Python</li>
+      <li>CSS</li>
+      <li>HTML</li>
+      <li>Tinkering with Raspberry Pi</li>
+    </ol>
+  </li>
+  <li>Cyber Camp for Allen</li>
+</ul>
+<h2>Education</h2>
+<p>C.A. Johnson High School</p>
+<ul>
+  <li>Graduation Date: June 2021</li>
+  <li>2219 Barhamville Road, Columbia, SC 29204</li>
+</ul>
+<p>Benedict College</p>
+<ul>
+  <li>Expected Graduation Date: May 2026</li>
+  <li>1600 Harden Street Columbia, South Carolina 29204</li>
+  <li>Bachelor degree in computer science</li>
+</ul>
+<hr style="#E333FF">
+<h2>Courses Taken</h2>
+<table border="1">
+  <tr>
+    <th>Core Classes</th>
+    <th>Computer Science Classes</th>
+  </tr>
+  <tr>
+    <td>College Algebra</td>
+    <td>Intro Computing</td>
+  </tr>
+  <tr>
+    <td>Analysis and Argumentation</td>
+    <td>Web Development</td>
+  </tr>
+  <tr>
+    <td>Health Education</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>College Experience</td>
+    <td></td>
+  </tr>
+</table>
+  </body>
+  </html>
